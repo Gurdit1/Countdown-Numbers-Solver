@@ -1,0 +1,5 @@
+﻿  countdown_numbers_solution.cpp
+c:\users\modder\source\repos\countdown_numbers_solution\countdown_numbers_solution\countdown_numbers_solution.cpp(36): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\modder\source\repos\countdown_numbers_solution\countdown_numbers_solution\countdown_numbers_solution.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\countdown_numbers_solution\countdown_numbers_solution\countdown_numbers_solution.cpp(250): warning C4018: '<': signed/unsigned mismatch
+  countdown_numbers_solution.vcxproj -> C:\Users\Modder\source\repos\countdown_numbers_solution\Debug\countdown_numbers_solution.exe
